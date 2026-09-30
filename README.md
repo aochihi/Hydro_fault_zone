@@ -30,7 +30,7 @@ snapshotXXXX.dat: snapshot at XXXX (hour); i j, pore pressure, phi, kappa, zone 
 
 
 
-Application and further development 
+## Application and further development 
 
 Douglas, J. and H. Aochi, Using estimated risk to develop exploitation strategies for Enhanced Geothermal Systems, Pageoph, 171, 1847-1858, doi: 10.1007/s00024-013-0765-8, 2014.
 
